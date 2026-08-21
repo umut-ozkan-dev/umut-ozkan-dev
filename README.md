@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently studying in Champlain College for B.S Computer Science degree <img width="33" height="33" alt="image" src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" />
+- 🔭 I’m currently studying in Champlain College for B.S Computer Science degree <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" />
 
 - 
 <!--
