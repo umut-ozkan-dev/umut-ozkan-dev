@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently studying in Champlain College for B.S Computer Science degree. <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" />
+- <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" /> I’m currently studying in Champlain College for B.S Computer Science degree. 
 - 🌱 I’m currently learning Backend Development.
 <!--
 **umut-ozkan-dev/umut-ozkan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
