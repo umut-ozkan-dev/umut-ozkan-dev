@@ -20,8 +20,8 @@
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
-        <br>.NET Core
+        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt=".NET" />
+        <br>FasAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
