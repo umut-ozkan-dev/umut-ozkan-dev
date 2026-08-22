@@ -16,8 +16,8 @@
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-        <br>C++
+        <img src="./postgres.svg" width="65" height="65" alt="C++" />
+        <br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dotnet" width="65" height="65" alt=".NET" />
