@@ -12,23 +12,23 @@
 <table>
 <tr>
     <td align="center" width="96">
-        <img src="./py.svg" width="65" height="65" alt="Python" />
+        <img src="./py.svg" width="45" height="45" alt="Python" />
         <br>Python
     </td>
     <td align="center" width="96">
-        <img src="./postgres.svg" width="65" height="65" alt="C++" />
+        <img src="./postgres.svg" width="45" height="45" alt="C++" />
         <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt=".NET" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt=".NET" />
         <br>FasAPI
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-        <br>Firebase
+        <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Firebase" />
+        <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
         <br>Git
     </td>
 </tr>
