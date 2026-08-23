@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" /> I'm Umut and I’m currently studying in Champlain College for B.S Computer Science degree. 
+- <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" /> I'm Umut, and I’m currently studying at Champlain College for a B.S. in Computer Science.
 - 🌱 I’m currently learning Backend Development.
 <!--
 <br clear="right"/>
