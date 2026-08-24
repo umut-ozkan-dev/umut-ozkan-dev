@@ -2,11 +2,9 @@
 
 - <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" /> I'm Umut, and I’m currently studying at Champlain College for a B.S. in Computer Science.
 - 🌱 I’m currently learning Backend Development.
-<br clear="right"/>
 <div align="center">  
 
 ## 🛠️ Tech Stack & Tools
-
 <table>
 <tr>
     <td align="center" width="96">
@@ -30,12 +28,14 @@
         <br>Git
     </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <img src="./linux.svg" width="45" height="45" alt="Git" />
         <br>Linux
     </td>
 </tr>
 </table> 
---
+
+
+<!--
 **umut-ozkan-dev/umut-ozkan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
