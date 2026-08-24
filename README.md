@@ -2,24 +2,24 @@
 
 - <img src="https://github.com/user-attachments/assets/70c52fee-a623-45a5-91c3-45959e38e6ee" width="18" height="18" align="center" /> I'm Umut, and I’m currently studying at Champlain College for a B.S. in Computer Science.
 - 🌱 I’m currently learning Backend Development.
-<!--
 <br clear="right"/>
 <div align="center">  
+
 ## 🛠️ Tech Stack & Tools
---
+
 <table>
 <tr>
     <td align="center" width="96">
         <img src="./py.svg" width="45" height="45" alt="Python" />
         <br>Python
     </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt=".NET" />
+        <br>FasAPI
+    </td>
     <td align="center" width="96">
         <img src="./postgres.svg" width="45" height="45" alt="C++" />
         <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt=".NET" />
-        <br>FasAPI
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Firebase" />
@@ -28,6 +28,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
         <br>Git
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+        <br>Linux
     </td>
 </tr>
 </table> 
