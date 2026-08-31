@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Backend Development.
 <div align="center">  
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Interested Tech Stack & Tools
 <table>
 <tr>
     <td align="center" width="96">
