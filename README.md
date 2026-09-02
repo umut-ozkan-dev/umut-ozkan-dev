@@ -13,7 +13,7 @@
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt=".NET" />
-        <br>FasAPI
+        <br>FastAPI
     </td>
     <td align="center" width="96">
         <img src="./postgres.svg" width="45" height="45" alt="C++" />
