@@ -1,7 +1,6 @@
 <pre><h4>Hi there👋</h4>I'm Umut, and I’m a Computer Science student.
 I’m currently learning Python Backend Development.
-<h4>Tech Stack</h4><img src="./stack_2.png" width="265" " alt="Python" title="Python" />    
-    
+<h4>Tech Stack</h4><img src="./stack_3.png" width="265" " alt="Python" title="Python" />    
 <strong>Languages:</strong> Python
 <strong>Backend Framework:</strong> FastAPI
 <strong>Database:</strong> PostgreSQL
