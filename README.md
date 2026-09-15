@@ -1,6 +1,6 @@
 <pre><h4>Hi there👋</h4>I'm Umut, and I’m a Computer Science student.
 I’m currently learning Python Backend Development.
-<h4>Tech Stack :</h4><img src="blue/python.png" width="35" height="35" alt="Python" title="Python" />&nbsp;<img src="blue/fastapi.png" width="35" height="35" alt="FastAPI" title="FastAPI" />&nbsp;<img src="./postgres5.png" width="35" height="35" alt="PostgreSQL" title="PostgreSQL" />&nbsp;<img src="blue/docker.png" width="35" height="35" alt="Docker" title="Docker" />&nbsp;<img src="blue/git.png" width="35" height="35" alt="Git" title="Git" />&nbsp;<img src="blue/linux.png" width="35" height="35" alt="Linux" title="Linux" />
+<h4>Tech Stack :</h4><img src="blue/python.png" width="35" height="35" alt="Python" title="Python" />&nbsp;<img src="blue/fastapi.png" width="35" height="35" alt="FastAPI" title="FastAPI" />&nbsp;<img src="blue/postgres.png" width="35" height="35" alt="PostgreSQL" title="PostgreSQL" />&nbsp;<img src="blue/docker.png" width="35" height="35" alt="Docker" title="Docker" />&nbsp;<img src="blue/git.png" width="35" height="35" alt="Git" title="Git" />&nbsp;<img src="blue/linux.png" width="35" height="35" alt="Linux" title="Linux" />
   
 <strong>Language :</strong> Python
 <strong>Framework :</strong> FastAPI
