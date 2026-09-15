@@ -5,7 +5,7 @@ I’m currently learning Python Backend Development.
 <strong>Language :</strong> Python
 <strong>Framework :</strong> FastAPI
 <strong>Database :</strong> PostgreSQL
-<strong>Tools:</strong> Git, GitHub, Linux, Docker<h4>Education :</h4><img src="./college.png" width="35" height="35" alt="Champlain  College" title="Champlain  College" align="center" /> <strong>Champlain College — B.S. in Computer Science</strong>
+<strong>Tools:</strong> Git, GitHub, Linux, Docker<h4>Education :</h4><img src="./colorful/college.png" width="35" height="35" alt="Champlain  College" title="Champlain  College" align="center" /> <strong>Champlain College — B.S. in Computer Science</strong>
 <h4>Contact :</h4>📧 Email: <a href="mailto:umutozkan123456@gmail.com">umutozkan123456@gmail.com</a>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/umut-ozkan-dev">in/umut-ozkan-dev</a>
 📍 Location: Ankara, Turkey
