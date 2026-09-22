@@ -10,5 +10,3 @@ I’m currently learning Python Backend Development.
 💼 LinkedIn: <a href="https://www.linkedin.com/in/umut-ozkan-dev">in/umut-ozkan-dev</a>
 📍 Location: Ankara, Turkey
 </pre>
-
-979303
